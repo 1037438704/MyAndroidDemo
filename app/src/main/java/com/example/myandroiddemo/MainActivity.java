@@ -12,7 +12,6 @@ import com.example.myandroiddemo.adp.FragmentTabAdapter;
 
 import java.util.ArrayList;
 
-
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     private ArrayList<Fragment> fragments;
     private FragmentTabAdapter tabAdapter;
